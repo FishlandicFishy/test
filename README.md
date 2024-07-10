@@ -11,6 +11,3 @@ Testing purposes
 <span lang="bg">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 <span lang="mk">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 <span lang="sr">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
-<span lang="sh">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
-
-<span style="font-family: 'Jigmo','Jigmo2','Jigmo3','Helvetica';">Test</span>
