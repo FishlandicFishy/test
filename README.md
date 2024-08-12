@@ -26,14 +26,3 @@ Testing purposes
 <span lang="sr">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 </i>
 
-<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="50" style="fill:red;">
-    <animate
-      attributeName="cx"
-      begin="0s"
-      dur="8s"
-      from="50"
-      to="90%"
-      repeatCount="indefinite" />
-  </circle>
-</svg>
