@@ -3,7 +3,7 @@
         <!-- Single line -->
         <animate id="d0" attributeName="d" begin="0s;d0.end" dur="6000ms" fill="remove" values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
     </path>
-    <text font-family="sans-serif" fill="#FFFFFF" font-size="20" dominant-baseline="auto" x="25%" text-anchor="middle" letter-spacing="normal">
+    <text font-family="sans-serif" fill="#FFFFFF" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path0">
             🦊 Como as lendas dizem, o meu guitarrista é furry. 🦊
         </textPath>
