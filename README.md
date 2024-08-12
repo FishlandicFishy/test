@@ -26,3 +26,4 @@ Testing purposes
 <span lang="sr">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 </i>
 
+![](go-go-gadget-moving-circle.svg)
