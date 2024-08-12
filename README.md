@@ -27,3 +27,5 @@ Testing purposes
 </i>
 
 ![](go-go-gadget-moving-circle.svg)
+
+𝑔𝑜 𝑔𝑜 𝑔𝒶𝒹𝑔𝑒𝓉 𝓂𝑜𝓋𝒾𝓃𝑔 𝒸𝒾𝓇𝒸𝓁𝑒
