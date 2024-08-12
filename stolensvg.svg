@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 50" style="background-color: #00000000;" width="800px" height="50px" overflow="visible">
-    <path id="path0" d="M0,25 H600">
+    <path id="path0" d="M0,25 H700">
         <!-- Single line -->
         <animate id="d0" attributeName="d" begin="0s;d0.end" dur="6000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
     </path>
