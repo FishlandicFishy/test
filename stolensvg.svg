@@ -1,16 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 50" style="background-color: #00000000;" width="800px" height="50px" overflow="visible">
-    <defs>
-        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="red" />
-            <stop offset="50%" stop-color="black" stop-opacity="0" />
-            <stop offset="100%" stop-color="blue" />
-        </linearGradient>
-    </defs>
     <path id="path0" d="M0,25 H600">
         <!-- Single line -->
         <animate id="d0" attributeName="d" begin="0s;d0.end" dur="6000ms" fill="remove" values="m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
     </path>
-    <text font-family="sans-serif" fill="url(#textGradient)" font-size="20" dominant-baseline="middle" x="0" text-anchor="start" letter-spacing="normal" textLength="600">
+    <text font-family="sans-serif" fill="#FFFFFF" font-size="20" dominant-baseline="middle" x="0" text-anchor="start" letter-spacing="normal" textLength="600">
         <textPath xlink:href="#path0">
             🦊 Como as lendas dizem, o meu guitarrista é furry. 🦊
         </textPath>
