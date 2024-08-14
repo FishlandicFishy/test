@@ -31,3 +31,7 @@ Testing purposes
 𝑔𝑜 𝑔𝑜 𝑔𝒶𝒹𝑔𝑒𝓉 𝓂𝑜𝓋𝒾𝓃𝑔 𝒸𝒾𝓇𝒸𝓁𝑒
 
 ![](stolensvg.svg)
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
+this image goes hard feel free to screenshot
