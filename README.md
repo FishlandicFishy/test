@@ -34,4 +34,4 @@ Testing purposes
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
 
-this image goes hard feel free to screenshot (CC0)
+this image goes hard feel free to screenshot (CC0) | <https://sfconservancy.org/img/GiveUpGitHub.png>
