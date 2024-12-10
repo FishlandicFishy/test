@@ -11,7 +11,6 @@ graph TD;
     not-real-->g
     not+real-->g
     not_real-->g
-    "not real"-->g
 sequenceDiagram
     participant A
     participant B
