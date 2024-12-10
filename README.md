@@ -2,6 +2,14 @@
 
 Testing purposes
 
+```mermaid
+graph TD;
+    real-->1
+    real-->2
+    real-->3
+    real-->4
+```
+
 <span lang="ja-jp">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 <span lang="ja">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 <span lang="ko">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
