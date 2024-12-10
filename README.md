@@ -11,6 +11,7 @@ graph TD;
     not-real-->g
     not+real-->g
     not_real-->g
+    "not real"-->g
 ```
 
 <span lang="ja-jp">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
