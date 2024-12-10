@@ -12,7 +12,19 @@ graph TD;
     not+real-->g
     not_real-->g
     "not real"-->g
+sequenceDiagram
+    participant A
+    participant B
+    A->>C: Como as lendas dizem, o meu guitarrista é furry.
+    loop h
+        C->>C: Como o Duo diz, meu tapete não fala.
+    end
+    Note right of C: Tudo bem, vai passar,<br/>e também, tú es meu cavalo,
+    C-->>A: Foi ao ar, perdeu o lugar.
+    C->>B: Eu não sei
+    B-->>C: o que eu vou escrever.
 ```
+
 
 <span lang="ja-jp">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
 <span lang="ja">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
