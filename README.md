@@ -8,7 +8,9 @@ graph TD;
     real-->2
     real-->3
     real-->4
-    notreal-->g
+    not-real-->g
+    not+real-->g
+    not_real-->g
 ```
 
 <span lang="ja-jp">AaẞßбЛлЦцМмТтЬьШшЩщИиЙй這这那哪﨣</span>
