@@ -11,6 +11,8 @@ graph TD;
     not-real-->g
     not+real-->g
     not_real-->g
+```
+```mermaid
 sequenceDiagram
     participant A
     participant B
